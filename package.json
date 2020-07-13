@@ -80,7 +80,7 @@
     "rimraf": "^2.6.2",
     "should": "^13.2.0",
     "sinon": "^6.1.5",
-    "standard-version": "^4.4.0",
+    "standard-version": "^8.0.1",
     "style-loader": "^0.22.1",
     "supertest": "^3.0.0",
     "url-loader": "^1.1.1",
